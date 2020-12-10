@@ -10,11 +10,6 @@ the course web site:
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
-* <b>Description</b>: Measurements of electric power consumption in
-one household with a one-minute sampling rate over a period of almost
-4 years. Different electrical quantities and some sub-metering values
-are available.
-
 
 The following descriptions of the 9 variables in the dataset are taken
 from
@@ -35,11 +30,6 @@ web site</a>:
 
 ## Loading the data
 
-
-
-
-
-When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
 calculate a rough estimate of how much memory the dataset will require
